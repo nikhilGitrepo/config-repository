@@ -1,4 +1,4 @@
-server:
+service:
     instance:
         name: pnr-provider-service-from-configserver-COMMON-APP-PROPS
 
